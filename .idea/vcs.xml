@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="C:/" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cypress-sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gauge-sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nightwatch-sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/robotjs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/robotjs-sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/taiko-demo" vcs="Git" />
+  </component>
+</project>

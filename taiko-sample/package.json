@@ -1,0 +1,14 @@
+{
+  "name": "taiko-sample-test",
+  "version": "1.0.0",
+  "description": "Sample taiko web automation tests",
+  "main": "taiko.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "aditya inapurapu",
+  "license": "ISC",
+  "dependencies": {
+    "taiko": "git+https://github.com/getgauge/taiko.git"
+  }
+}

@@ -7,7 +7,7 @@ fixture `Getting Started`// declare the fixture
 //then create a test and place your code there
 test('My first test', async t => {
     await t
-        .typeText('#lst-ib', 'Aditya Inapurapu')
+        .typeText('div.FPdoLc.VlcLAe > center > input:nth-of-type(1)', 'Aditya Inapurapu')
         .pressKey('enter')
 
         // Use the assertion to check if the actual header text is equal to the expected one

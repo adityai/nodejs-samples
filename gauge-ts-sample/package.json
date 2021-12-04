@@ -10,5 +10,15 @@
     "@types/node": "latest",
     "gauge": "^4.0.0",
     "taiko": "^1.0.26"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "gauge run specs/example.spec"
+  },
+  "author": "Aditya Inapurapu",
+  "license": "ISC"
 }

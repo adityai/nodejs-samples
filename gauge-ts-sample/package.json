@@ -7,6 +7,7 @@
     "typescript": "^4.4.4"
   },
   "devDependencies": {
+    "@getgauge/cli": "^1.4.2",
     "@types/node": "latest",
     "gauge": "^4.0.0",
     "taiko": "^1.0.26"
@@ -17,7 +18,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "gauge run specs/example.spec"
+    "test": "./node_modules/.bin/gauge run specs/example.spec"
   },
   "author": "Aditya Inapurapu",
   "license": "ISC"
